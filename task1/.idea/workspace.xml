@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32d887ea-866b-4264-bd3e-e74670e911f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1boZx06LMeEXoDNsebCxiUNUuO9" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.alesson.online.MainWindow" />
+      <module name="task1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.jtwo.alesson.online.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d887ea-866b-4264-bd3e-e74670e911f7" name="Default Changelist" comment="" />
+      <created>1589300649538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589300649538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589477462937">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="231" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589477462937" />
+    <state x="432" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1589489933561">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="432" y="216" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1589489933561" />
+    <state x="473" y="276" key="#com.intellij.ide.util.MemberChooser/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1589312809915" />
+    <state x="612" y="314" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589392321710">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="612" y="314" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1589392321710" />
+    <state x="506" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589480653852">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="506" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589480653852" />
+    <state width="1480" height="211" key="GridCell.Tab.0.bottom" timestamp="1589645969431">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589645969431" />
+    <state width="1255" height="97" key="GridCell.Tab.0.bottom/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1589313323270" />
+    <state width="1480" height="211" key="GridCell.Tab.0.center" timestamp="1589645969431">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589645969431" />
+    <state width="1255" height="97" key="GridCell.Tab.0.center/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1589313323269" />
+    <state width="1480" height="211" key="GridCell.Tab.0.left" timestamp="1589645969431">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589645969431" />
+    <state width="1255" height="97" key="GridCell.Tab.0.left/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1589313323268" />
+    <state width="1480" height="211" key="GridCell.Tab.0.right" timestamp="1589645969431">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589645969431" />
+    <state width="1255" height="97" key="GridCell.Tab.0.right/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1589313323269" />
+    <state x="284" y="67" key="SettingsEditor" timestamp="1589477554108">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="284" y="67" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589477554108" />
+    <state x="398" y="298" key="extract.method.dialog" timestamp="1589304629854">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="398" y="298" key="extract.method.dialog/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1589304629854" />
+    <state x="208" y="45" key="new project wizard" timestamp="1589645964211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="208" y="45" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589645964211" />
+    <state x="325" y="257" key="run.anything.popup" timestamp="1589308632721">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="325" y="257" key="run.anything.popup/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1589308632721" />
+  </component>
+</project>
